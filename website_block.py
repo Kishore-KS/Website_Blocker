@@ -1,6 +1,6 @@
 import time
 from datetime import datetime as dt
-hosts_name = 'hosts'
+hosts_name = 'c:\Windows\System32\Drivers\etc\hosts'
 hosts_dup = 'hosts_dup'
 ban_website = ["www.youtube.com","www.facebook.com"]
 redirect = '127.0.0.1'
